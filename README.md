@@ -1,2 +1,2 @@
 # yussy-slider
-I cloned www.hepsiburada.com slider build. And named "Yussy Slider". 
+I cloned www.hepsiburada.com slider template. And named "Yussy Slider". 
